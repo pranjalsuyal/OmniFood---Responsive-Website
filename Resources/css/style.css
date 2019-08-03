@@ -425,7 +425,6 @@ footer {
     text-decoration: none;
     border: 0;
     color: #888;
-    -webkit-transition: color 0.2s;
     transition: color 0.2s;
 }
 .footer-nav li a:hover,
@@ -440,7 +439,6 @@ footer {
 .ion-logo-twitter,
 .ion-logo-googleplus,
 .ion-logo-instagram {
-    -webkit-transition: color 0.2s;
     transition: color 0.2s;
 }
 .ion-logo-facebook:hover {
